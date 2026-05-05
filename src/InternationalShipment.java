@@ -51,6 +51,6 @@ public class InternationalShipment extends ShipmentOrder {
             return price * 0.97;
         }
 
-        return price;
+         price;
     }
 }

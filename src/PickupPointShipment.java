@@ -41,6 +41,6 @@ public class PickupPointShipment extends ShipmentOrder {
             fee += 12;
         }
 
-        return fee;
+         fee;
     }
 }
