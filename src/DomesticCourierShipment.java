@@ -35,6 +35,6 @@ public class DomesticCourierShipment extends ShipmentOrder {
             return price * 0.95;
         }
 
-         price;
+        return price;
     }
 }
